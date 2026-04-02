@@ -161,8 +161,3 @@ Sarthak Bokade
 LinkedIn: https://www.linkedin.com/in/sarthakbokade/
 GitHub: https://github.com/SarthakBokade
 
----
-
-## License
-
-This project is released under the MIT License.
